@@ -1,3 +1,5 @@
+## Cell Phone Location Data
+* [Twelve Million Phones, One Dataset, Zero Privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
 ## Location Data & Voter Mobilization
 ## 2020 COVID-19 Pandemic
 * [Tectonix GEO](https://twitter.com/TectonixGEO/status/1242628347034767361) tweet announcing a visualization of the dispersion of cell phones from spring break on a Florida beach across the country. The followup is interesting as people discuss the value and privacy concerns about this data.
